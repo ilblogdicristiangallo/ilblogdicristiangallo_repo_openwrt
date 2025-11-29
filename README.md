@@ -1,4 +1,11 @@
 # Repository OpenWrt by ilblogdicristiangallo
+<div align="center">
+  <img src="https://github.com/ilblogdicristiangallo/ilblogdicristiangallo_repo_openwrt/blob/main/repository-openwrt-by-ilblogdicristiangallo.png?raw=true" 
+       alt="Repository OpenWrt by ilblogdicristiangallo"
+       width="600"
+       style="height: auto;">
+</div>
+
 
 # Access your router via PuTTY
 
