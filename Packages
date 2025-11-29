@@ -1,3 +1,4 @@
+Lost field Installed-Size, 112640
 Package: apn-web
 Version: 1.0.3
 Section: admin
@@ -10,25 +11,14 @@ Description: Interfaccia web per la configurazione APN su OpenWrt
 Priority: optional
 
 
-Package: telegramwrt-i18n-it
-Version: 1.0.3
+Package: telegramwrt
+Version: 1.0.4
 Depends: wget,jq,curl,tcpdump
 Architecture: all
 Maintainer: Cristian Gallo
-MD5Sum: aa57fdb67f704133f2b4ce7105081d0d
-Size: 8538
-Filename: telegramwrt-i18n-it_1.0.3_all.ipk
-Description: TelegramWrt è un bot Telegram modulare per OpenWrt tradotto in lingua italiana. Fornisce plugin per diagnostica, sicurezza e automazione con script pronti per la riga di comando.
-
-
-Package: telegramwrt
-Version: 1.0.3
-Depends: wget,jq,curl,tcpdump
-Architecture: all
-Maintainer: Cristian Gallo ilblogdicristiangallo.com
-MD5Sum: 14cbdb5a8efb42635dc4759ba20c0741
-Size: 8769
-Filename: telegramwrt_1.0.3_all.ipk
-Description: TelegramWrt is a modular Telegram bot for OpenWrt.
+MD5Sum: f8bc75adc4464106695efcea8a8ecf16
+Size: 16407
+Filename: telegramwrt_1.0.4_all.ipk
+Description: TelegramWrt is a modular Telegram bot for OpenWrt. It provides plugins for diagnostics, security, and automation with ready-to-use command-line scripts.
 
 
