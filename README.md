@@ -25,7 +25,8 @@ echo 'src/gz cristian_repo https://ilblogdicristiangallo.github.io/ilblogdicrist
 # Import the repository GPG key
 
 Download the public key:
-<pre>wget -O /tmp/chiave_ilblogdicristiangallo.pub https://github.com/ilblogdicristiangallo/ilblogdicristiangallo_repo_openwrt/raw/refs/heads/main/chiave_ilblogdicristiangallo.pub</pre>
+<pre>wget -O /tmp/ilblogdicristiangallo.pub https://github.com/ilblogdicristiangallo/ilblogdicristiangallo_repo_openwrt/raw/refs/heads/main/ilblogdicristiangallo.pub</pre>
 
 # Install the key:
-<pre>opkg-key add chiave_ilblogdicristiangallo.pub</pre>
+<pre>opkg-key add ilblogdicristiangallo.pub</pre>
+
