@@ -27,8 +27,8 @@ Version: 1.0.4
 Depends: wget,jq,curl,tcpdump
 Architecture: all
 Maintainer: Cristian Gallo
-MD5Sum: 7e1fa32c57dfe16feb674cacd7a48b84
-Size: 9397
+MD5Sum: 980671211ab42eb2dfc0c35e3d4f38e3
+Size: 9420
 Filename: telegramwrt_1.0.4_all.ipk
 Description: TelegramWrt is a modular Telegram bot for OpenWrt. It provides plugins for diagnostics, security, and automation with ready-to-use command-line scripts.
 
