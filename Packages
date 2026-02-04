@@ -23,13 +23,13 @@ Description: TelegramWrt è un bot Telegram modulare per OpenWrt tradotto in lin
 
 
 Package: telegramwrt
-Version: 1.0.5
+Version: 1.0.6
 Depends: wget,jq,curl,tcpdump
 Architecture: all
 Maintainer: Cristian Gallo
-MD5Sum: 024f6ff8a68efa8d0409f16b2af2bfd3
-Size: 10212
-Filename: telegramwrt_1.0.5_all.ipk
+MD5Sum: 045cc112adda343aae5972d3fbaeb574
+Size: 11175
+Filename: telegramwrt_1.0.6_all.ipk
 Description: TelegramWrt is a modular Telegram bot for OpenWrt. It provides plugins for diagnostics, security, and automation with ready-to-use command-line scripts.
 
 
