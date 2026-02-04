@@ -1,3 +1,4 @@
+Lost field Installed-Size, 71680
 Package: apn-web
 Version: 1.0.3
 Section: admin
@@ -19,5 +20,16 @@ MD5Sum: fc4f45ea16b8f99606c7e17671aa4045
 Size: 9875
 Filename: telegramwrt-i18n-it_1.0.6_all.ipk
 Description: TelegramWrt è un bot Telegram modulare per OpenWrt tradotto in lingua italiana. Fornisce plugin per diagnostica, sicurezza e automazione con script pronti per la riga di comando.
+
+
+Package: telegramwrt
+Version: 1.0.6
+Depends: wget,jq,curl,tcpdump
+Architecture: all
+Maintainer: Cristian Gallo
+MD5Sum: 1117e121118eb17e8a9ac59cc88d3a14
+Size: 11182
+Filename: telegramwrt_1.0.6_all.ipk
+Description: TelegramWrt is a modular Telegram bot for OpenWrt. It provides plugins for diagnostics, security, and automation with ready-to-use command-line scripts.
 
 
