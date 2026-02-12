@@ -19,8 +19,7 @@ Enter your password if you have one; otherwise continue.
 # Add the ilblogdicristiangallo repository
 
 Run this command to add the feed only if it is not already present:
-<pre>grep -q cristian_repo /etc/opkg/customfeeds.conf || \
-echo 'src/gz cristian_repo https://ilblogdicristiangallo.github.io/ilblogdicristiangallo_repo_openwrt' >> /etc/opkg/customfeeds.conf</pre>
+<pre>grep -q "cristian_repo" /etc/opkg/customfeeds.conf || echo "src/gz cristian_repo https://ilblogdicristiangallo.github.io/ilblogdicristiangallo_repo_openwrt" >> /etc/opkg/customfeeds.conf </pre>
 
 # Import the repository GPG key
 
