@@ -11,17 +11,17 @@ Description: Interfaccia web per la configurazione APN su OpenWrt
 Priority: optional
 
 
-Package: luci-app-apn
+Package: luci-app-apnweb
 Version: 1.0.4-1
 Depends: luci-base
 Section: luci
 Architecture: all
 Maintainer: Cristian Gallo
-MD5Sum: 3e551f04c2cfed62327381850469f988
-Size: 114697
-Filename: luci-app-apn_1.0.4-1_all.ipk
-Description: LuCI APN Configuration Web UI
-License: GPL-2.0-only
+MD5Sum: ea2770fa8c9b26792fe8650f6f16de5e
+Size: 113232
+Filename: luci-app-apnweb_1.0.4-1_all.ipk
+Description: LuCI graphical interface for APN configuration integrated in OpenWrt menu.
+Priority: optional
 
 
 Package: telegramwrt-i18n-it
