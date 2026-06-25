@@ -1,48 +1,37 @@
-Lost field Installed-Size, 71680
-Package: apn-web
-Version: 1.0.3
-Section: admin
-Architecture: all
-Maintainer: Cristian Gallo ilblogdicristiangallo.com
-MD5Sum: f24e76bda02f23ae71467c8751a90d78
-Size: 220152
-Filename: apn-web_1.0.3_all.ipk
-Description: Interfaccia web per la configurazione APN su OpenWrt
-Priority: optional
-
-
 Package: luci-app-apnweb
 Version: 1.0.4-1
 Depends: luci-base
 Section: luci
-Architecture: all
-Maintainer: Cristian Gallo
-MD5Sum: a9fb10ca074fad4d38231d4611521995
-Size: 114612
-Filename: luci-app-apnweb_1.0.4-1_all.ipk
-Description: LuCI graphical interface for APN configuration integrated in OpenWrt menu.
 Priority: optional
-
-
-Package: telegramwrt-i18n-it
-Version: 1.0.7
-Depends: wget,jq,curl,tcpdump
 Architecture: all
 Maintainer: Cristian Gallo
-MD5Sum: a7ee466e9489d554b61c8d8b68e968ab
-Size: 11012
-Filename: telegramwrt-i18n-it_1.0.7_all.ipk
-Description: TelegramWrt è un bot Telegram modulare per OpenWrt tradotto in lingua italiana. Fornisce plugin per diagnostica, sicurezza e automazione con script pronti per la riga di comando.
-
+Description: LuCI graphical interface for APN configuration integrated in OpenWrt menu.
+ Supports QMI, MBIM and ModemManager.
+Filename: luci-app-apnweb_1.0.4-1_all.ipk
+Size: 114612
+MD5Sum: a9fb10ca074fad4d38231d4611521995
+SHA256sum: fb95afa132340fd844caa2970f27f11b785f1ca6c121cf56ddc9f0782fc7490c
 
 Package: telegramwrt
 Version: 1.0.7
 Depends: wget,jq,curl,tcpdump
 Architecture: all
-Maintainer: Cristian Gallo
-MD5Sum: 3cd2e93e5427b018f03f29943ee81147
-Size: 10886
-Filename: telegramwrt_1.0.7_all.ipk
+Installed-Size: 71680
 Description: TelegramWrt is a modular Telegram bot for OpenWrt. It provides plugins for diagnostics, security, and automation with ready-to-use command-line scripts.
+Maintainer: Cristian Gallo
+Filename: telegramwrt_1.0.7_all.ipk
+Size: 10886
+MD5Sum: 3cd2e93e5427b018f03f29943ee81147
+SHA256sum: 993d1348e1be410ed6fab5102c8447ca3002cf0d9f5d8beb4f6617e46fdfeb6d
 
+Package: telegramwrt-i18n-it
+Version: 1.0.7
+Depends: wget,jq,curl,tcpdump
+Architecture: all
+Description: TelegramWrt è un bot Telegram modulare per OpenWrt tradotto in lingua italiana. Fornisce plugin per diagnostica, sicurezza e automazione con script pronti per la riga di comando.
+Maintainer: Cristian Gallo
+Filename: telegramwrt-i18n-it_1.0.7_all.ipk
+Size: 11012
+MD5Sum: a7ee466e9489d554b61c8d8b68e968ab
+SHA256sum: bb0159b3aecdc2153550932bfe4a7bfdddb83a4473f8b8cec720aae015de5417
 
