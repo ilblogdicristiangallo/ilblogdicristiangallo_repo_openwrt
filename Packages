@@ -17,8 +17,8 @@ Depends: luci-base
 Section: luci
 Architecture: all
 Maintainer: Cristian Gallo
-MD5Sum: ea2770fa8c9b26792fe8650f6f16de5e
-Size: 113232
+MD5Sum: a9fb10ca074fad4d38231d4611521995
+Size: 114612
 Filename: luci-app-apnweb_1.0.4-1_all.ipk
 Description: LuCI graphical interface for APN configuration integrated in OpenWrt menu.
 Priority: optional
