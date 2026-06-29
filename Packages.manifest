@@ -1,0 +1,50 @@
+Lost field Installed-Size, 60
+Lost field Installed-Size, 71680
+Package: luci-app-apnweb
+Version: 1.0.5-1
+Depends: luci-base
+Section: luci
+Architecture: all
+Maintainer: Cristian Gallo
+MD5Sum: d0fc5729ff16b97ce0aa69e6769938a2
+Size: 118000
+Filename: luci-app-apnweb_1.0.5-1_all.ipk
+Description: European APN Configurator with multi-language support (IT/EN), 37+ countries database with MNO and MVNO operators. Supports QMI, MBIM and ModemManager.
+Priority: optional
+
+
+Package: luci-app-teliasetup
+Version: 1.0.0-r1
+Depends: libc, luci-base, luci-compat, adb
+Section: luci
+Architecture: all
+Maintainer: Cristian Gallo
+MD5Sum: c9d7d24cdc53f5611d56c9be6fff8c8b
+Size: 39222837
+Filename: luci-app-teliasetup_1.0.0-1_all.ipk
+Description: LuCI web interface to manage sequential FOTA firmware updates
+License: MIT
+
+
+Package: telegramwrt-i18n-it
+Version: 1.0.7
+Depends: wget,jq,curl,tcpdump
+Architecture: all
+Maintainer: Cristian Gallo
+MD5Sum: a7ee466e9489d554b61c8d8b68e968ab
+Size: 11012
+Filename: telegramwrt-i18n-it_1.0.7_all.ipk
+Description: TelegramWrt è un bot Telegram modulare per OpenWrt tradotto in lingua italiana. Fornisce plugin per diagnostica, sicurezza e automazione con script pronti per la riga di comando.
+
+
+Package: telegramwrt
+Version: 1.0.7
+Depends: wget,jq,curl,tcpdump
+Architecture: all
+Maintainer: Cristian Gallo
+MD5Sum: 3cd2e93e5427b018f03f29943ee81147
+Size: 10886
+Filename: telegramwrt_1.0.7_all.ipk
+Description: TelegramWrt is a modular Telegram bot for OpenWrt. It provides plugins for diagnostics, security, and automation with ready-to-use command-line scripts.
+
+
