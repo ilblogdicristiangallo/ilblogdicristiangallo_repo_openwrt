@@ -1,3 +1,4 @@
+Lost field Installed-Size, 60
 Lost field Installed-Size, 71680
 Package: luci-app-apnweb
 Version: 1.0.5-1
@@ -10,6 +11,19 @@ Size: 118000
 Filename: luci-app-apnweb_1.0.5-1_all.ipk
 Description: European APN Configurator with multi-language support (IT/EN), 37+ countries database with MNO and MVNO operators. Supports QMI, MBIM and ModemManager.
 Priority: optional
+
+
+Package: luci-app-teliasetup
+Version: 1.0.0-r1
+Depends: libc, luci-base, luci-compat, adb
+Section: luci
+Architecture: all
+Maintainer: Cristian Gallo
+MD5Sum: c9d7d24cdc53f5611d56c9be6fff8c8b
+Size: 39222837
+Filename: luci-app-teliasetup_1.0.0-1_all.ipk
+Description: LuCI web interface to manage sequential FOTA firmware updates
+License: MIT
 
 
 Package: telegramwrt-i18n-it
