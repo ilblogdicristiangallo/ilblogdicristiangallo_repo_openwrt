@@ -1,5 +1,3 @@
-Lost field Installed-Size, 60
-Lost field Installed-Size, 71680
 Package: luci-app-apnweb
 Version: 1.0.5-1
 Depends: luci-base
@@ -11,7 +9,6 @@ Size: 118000
 Filename: luci-app-apnweb_1.0.5-1_all.ipk
 Description: European APN Configurator with multi-language support (IT/EN), 37+ countries database with MNO and MVNO operators. Supports QMI, MBIM and ModemManager.
 Priority: optional
-
 
 Package: luci-app-teliasetup
 Version: 1.0.0-r1
@@ -25,7 +22,6 @@ Filename: luci-app-teliasetup_1.0.0-1_all.ipk
 Description: LuCI web interface to manage sequential FOTA firmware updates
 License: MIT
 
-
 Package: luci-graphic-modemmanager
 Version: 1.0.0-2
 Depends: luci-base, rpcd, modemmanager
@@ -38,7 +34,6 @@ Filename: luci-graphic-modemmanager_1.0.0-2_all.ipk
 Description: Graphic LuCI interface for ModemManager (mmcli).
 License: GPL-2.0
 
-
 Package: telegramwrt-i18n-it
 Version: 1.0.7
 Depends: wget,jq,curl,tcpdump
@@ -49,7 +44,6 @@ Size: 11012
 Filename: telegramwrt-i18n-it_1.0.7_all.ipk
 Description: TelegramWrt è un bot Telegram modulare per OpenWrt tradotto in lingua italiana. Fornisce plugin per diagnostica, sicurezza e automazione con script pronti per la riga di comando.
 
-
 Package: telegramwrt
 Version: 1.0.7
 Depends: wget,jq,curl,tcpdump
@@ -59,5 +53,4 @@ MD5Sum: 3cd2e93e5427b018f03f29943ee81147
 Size: 10886
 Filename: telegramwrt_1.0.7_all.ipk
 Description: TelegramWrt is a modular Telegram bot for OpenWrt. It provides plugins for diagnostics, security, and automation with ready-to-use command-line scripts.
-
 
