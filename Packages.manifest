@@ -26,6 +26,19 @@ Description: LuCI web interface to manage sequential FOTA firmware updates
 License: MIT
 
 
+Package: luci-graphic-modemmanager
+Version: 1.0.0-2
+Depends: luci-base, rpcd, modemmanager
+Section: luci
+Architecture: all
+Maintainer: OpenWrt User
+MD5Sum: 1d0209f4a19b9563d0c08736f4aa8b0c
+Size: 11271
+Filename: luci-graphic-modemmanager_1.0.0-2_all.ipk
+Description: Graphic LuCI interface for ModemManager (mmcli).
+License: GPL-2.0
+
+
 Package: telegramwrt-i18n-it
 Version: 1.0.7
 Depends: wget,jq,curl,tcpdump
