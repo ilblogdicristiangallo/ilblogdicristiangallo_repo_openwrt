@@ -10,6 +10,17 @@ Filename: luci-app-apnweb_1.0.5-1_all.ipk
 Description: European APN Configurator with multi-language support (IT/EN), 37+ countries database with MNO and MVNO operators. Supports QMI, MBIM and ModemManager.
 Priority: optional
 
+Package: luci-app-speedtest
+Version: 1.0.0-1
+Depends: luci-base
+Section: luci
+Architecture: all
+Maintainer: Cristian Gallo
+MD5Sum: 88ca7c132589890d52f32aa0fcce84f8
+Size: 7371
+Filename: luci-app-speedtest_1.0.0-1_all.ipk
+Description: Advanced LuCI speed test application featuring an Ookla-style SVG gauge, smart 10s ping stabilization, TCP slow-start bypass for accurate Download/Upload bandwidth measurement, and real-time RFC3550 Jitter calculation.
+
 Package: luci-app-teliasetup
 Version: 1.0.0-r1
 Depends: libc, luci-base, luci-compat, adb
