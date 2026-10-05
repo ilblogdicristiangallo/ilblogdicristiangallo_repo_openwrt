@@ -16,8 +16,8 @@ Depends: luci-base
 Section: luci
 Architecture: all
 Maintainer: Cristian Gallo
-MD5Sum: 88ca7c132589890d52f32aa0fcce84f8
-Size: 7371
+MD5Sum: b0a3dec108e4b1690b4944dc9a2834d5
+Size: 7487
 Filename: luci-app-speedtest_1.0.0-1_all.ipk
 Description: Advanced LuCI speed test application featuring an Ookla-style SVG gauge, smart 10s ping stabilization, TCP slow-start bypass for accurate Download/Upload bandwidth measurement, and real-time RFC3550 Jitter calculation.
 
