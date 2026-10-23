@@ -27,9 +27,9 @@ Depends: libc, luci-base, luci-compat, adb
 Section: luci
 Architecture: all
 Maintainer: Cristian Gallo
-MD5Sum: c9d7d24cdc53f5611d56c9be6fff8c8b
-Size: 39222837
-Filename: luci-app-teliasetup_1.0.0-1_all.ipk
+MD5Sum: 3f9005ff94edabf82edb60a58a4842f8
+Size: 39222915
+Filename: luci-app-teliasetup_1.0.0-r1_all.ipk
 Description: LuCI web interface to manage sequential FOTA firmware updates
 License: MIT
 
