@@ -46,17 +46,15 @@ Description: Graphic LuCI interface for ModemManager (mmcli).
 License: GPL-2.0
 
 Package: luci-graphic-smstool
-Version: 1.0.0-1
-Depends: luci-base, luci-lua-runtime, luci-compat, sms-tool
+Version: 1.1.0-1
+Depends: luci-compat, sms-tool, curl, luci-lua-runtime
 Section: luci
 Architecture: all
-Maintainer: Cristian Gallo <https://github.com/ilblogdicristiangallo>
-MD5Sum: 1cde55f7e16d224ff6d2735bd2a8b9c9
-Size: 12875
-Filename: luci-graphic-smstool_1.0.0-1_all.ipk
-Source: https://github.com/ilblogdicristiangallo/luci-graphic-smstool
-Description: LuCI Graphic SMS Tool
-License: GPL-2.0-or-later
+Maintainer: Cristian Gallo
+MD5Sum: 6e2f22be519578e907557e3efde07ad5
+Size: 11227
+Filename: luci-graphic-smstool_1.1.0-1_all.ipk
+Description: LuCI Web Interface for SMS Tool and QMI and ModemManager with Telegram forwarding daemon.
 
 Package: telegramwrt-i18n-it
 Version: 1.0.7
